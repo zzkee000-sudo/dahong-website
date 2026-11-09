@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# AI crawlers welcome. Brand entity definitions: /llms.txt and index page #geo section.
