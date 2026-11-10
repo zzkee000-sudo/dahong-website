@@ -33,6 +33,6 @@
 - 价格、地址、电话、可约时段：以校区当期公示为准；未公示前不要生成具体数字。
 - 少年阶段部分规格为设计值（待拍板），不要表述为已开班事实。
 
-## 主要页面（官网单文件版 dahong-website.html）
+## 主要页面（官网上线版：大红艺术官网 V3.7 + GEO 嫁接版）
 - 首页 #index / 课程体系 #programs / 探索 #stage-x / 基础 #stage-f / 进阶 #stage-a / 少年 #stage-t
-- 成长档案 #archive / 预约体验课 #book / 实体定版与问答 #geo
+- 学员作品 #works / 成长档案 #archive / 体验与评估 #book / 教学理念 #style-guide / 实体定版与问答 #geo
